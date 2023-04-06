@@ -26,5 +26,6 @@ WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 ...
 
-<img src="./assets/images/challenge-3-screenshot.png" alt="Challenge 3 Screenshot"/>
-
+ <a href="./assets/images/challenge-3-screenshot.png">
+      <img alt="Password Generator" src="https://jndenk26.github.io/challenge-3/" width=150" height="70">
+   </a>
